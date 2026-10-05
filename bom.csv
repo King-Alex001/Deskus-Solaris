@@ -1,0 +1,4 @@
+Item_Number,Component_Name,Part_Number,Quantity,Description,Supplier,Unit_Cost
+1,Resistor 10k,RES-10K-0603,10,0603 Surface Mount Resistor,DigiKey,0.01
+2,Microcontroller,MCU-STM32F4,1,ARM Cortex-M4 MCU,Mouser,4.50
+3,Capacitor 0.1uF,CAP-0.1UF-0402,5,0402 Ceramic Capacitor,DigiKey,0.02
